@@ -71,9 +71,13 @@ java -cp ".\target\classes" edu.escuelaing.arsw.Client.App
 ```
 
 6. Diagrama de clases del servidor
+7. 
    ![Imágen 1](img/2.png)
+   
 7. Diagrama de clases del cliente
+8. 
    ![Imágen 1](img/3.png)
+   
 
 
 ## Built con
