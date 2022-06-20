@@ -8,9 +8,9 @@ paginas html e imagenes.
 2. desde las 4:00 pm, hasta las 4:55 pm - fueron en total 43 lineas
 
 
-LOC = (134L/2.5h)
+LOC = (34L/2.5h)
 
-## 53.6 LOC
+## 17.2 LOC
 
 ## Link de acceso https://gentle-tor-62831.herokuapp.com/
 
