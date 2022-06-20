@@ -24,8 +24,7 @@ raiz /README.md
 
 Copie el proyecto via git clone en cualquier diretorio para empezar a trabajar:
 ```
-Falta crear repositorio
-git clone https://github.com/MatiwsxD/arsw-i-Lab03.git
+https://github.com/MatiwsxD/ARSW-I-LAB04/
 ```
 
 ### Prerequisitos
